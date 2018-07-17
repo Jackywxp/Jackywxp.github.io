@@ -1,7 +1,7 @@
 {
-  "name": jacky Blog",
-  "short_name": "jacky Blog",
-  "description": "A personal blog by engineer",
+  "name": JACKY BLOG",
+  "short_name": "JACKY BLOG",
+  "description": "No Coding,Just Life",
   "icons": [{
     "src": "icons/pwa_icon_128.png",
     "sizes": "128x128",
