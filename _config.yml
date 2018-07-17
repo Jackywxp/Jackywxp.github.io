@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 title: JACKY BLOG
 SEOTitle: JACKY BLOG
 header-img: img/post-bg-rwd.jpg
-email: bruse971@gmail.com
+#email: bruse971@gmail.com
 description: "Life."
 keyword: "jacky's Life"
 url: "https://jackywxp.github.io/"          # your host, for absolute URL
@@ -19,7 +19,7 @@ sidebar-about-description: "生活需要有调子！"
 
 # SNS settings
 #RSS: false
-github_username:    Jackywxp
+#github_username:    Jackywxp
 
 
 
