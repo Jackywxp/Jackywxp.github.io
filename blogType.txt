@@ -1,0 +1,11 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      记录生活的乐趣   				# 标题 
+subtitle:   快乐与不快乐                    #副标题
+date:       2018-07-17 				# 时间
+author:     jacky					# 作者
+header-img: img/bj.jpg 	            #这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - LIFE
+---
