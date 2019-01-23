@@ -67,9 +67,9 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "Jacky_cs",
-        href: "http://www.cnblogs.com/googlejacky/"
-    }
-]
+# friends: [
+ #    {
+  #       title: "Jacky_cs",
+  #       href: "http://www.cnblogs.com/googlejacky/"
+  #   }
+# ]
